@@ -1,2 +1,3 @@
 win1
-linux1
+win2
+win3
